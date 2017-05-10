@@ -1,4 +1,13 @@
 body {
 background: grey;
-font-color: blue;
+color: blue;
+}
+
+table {
+ text-align: center;
+ width: 40%;
+ background: white;
+ color: black;
+ font-size: 12px;
+ font-family: Verdana;
 }
